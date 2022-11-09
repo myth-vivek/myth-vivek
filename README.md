@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vivek
-- 👀 I’m interested in designing, music, reading, excersising 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in designing, music, reading, excersising, coding
+- 🌱 I’m currently learning Blockchain technology
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
 <!---
